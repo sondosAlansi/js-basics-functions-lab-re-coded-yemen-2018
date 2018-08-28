@@ -41,6 +41,5 @@ console.log(distanceTravelledInFeet(34, 28));
 
 function calculatesFarePrice(start,end){
   
- let test=distanceTravelledInFeet(43, 44);
- if(test<400)
+
 }
