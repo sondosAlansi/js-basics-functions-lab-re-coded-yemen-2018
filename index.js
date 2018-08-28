@@ -57,4 +57,4 @@ function calculatesFarePrice(start,end){
   }
   return fare;
 }
-console.log(calculatesFarePrice())
+console.log(calculatesFarePrice(34, 32));
