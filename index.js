@@ -29,3 +29,5 @@ function distanceTravelledInFeet(start,end){
   return distance;
 }
 console.log(distanceTravelledInFeet(43, 48));
+console.log(distanceTravelledInFeet(50, 60));
+console.log(distanceTravelledInFeet(43, 48));
