@@ -48,4 +48,11 @@ function calculatesFarePrice(start,end){
     fare=2;
     
   }
+  else if(dis>2000 &&dis <2500){
+    fare=2;
+    
+  }
+  else{
+    fare=
+  }
 }
