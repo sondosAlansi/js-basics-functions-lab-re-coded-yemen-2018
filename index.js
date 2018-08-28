@@ -53,6 +53,6 @@ function calculatesFarePrice(start,end){
     
   }
   else{
-    fare=
+    fare='cannot travel that far';
   }
 }
