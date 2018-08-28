@@ -40,7 +40,12 @@ console.log(distanceTravelledInFeet(34, 28));
 
 
 function calculatesFarePrice(start,end){
-  
- let fare=distanceTravelledInFeet(start, end);
- if(test<400)
+  let fare
+ let dis=distanceTravelledInFeet(start, end);
+ if(dis<400)
+  fare="free";
+  else if(dis>400 &&dis <2000){
+    fare=2;
+    
+  }
 }
