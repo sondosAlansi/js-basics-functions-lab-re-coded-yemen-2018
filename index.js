@@ -39,4 +39,7 @@ console.log(distanceTravelledInFeet(50, 60));
 console.log(distanceTravelledInFeet(34, 28));
 
 
-function calculatesFarePrice(){}
+function calculatesFarePrice(start,end){
+  
+ let test=distanceTravelledInFeet(43, 48)
+}
