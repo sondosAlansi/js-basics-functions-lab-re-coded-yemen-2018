@@ -39,4 +39,4 @@ console.log(distanceTravelledInFeet(50, 60));
 console.log(distanceTravelledInFeet(34, 28));
 
 
-function 
+function calculatesFarePrice(){}
