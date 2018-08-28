@@ -28,3 +28,4 @@ function distanceTravelledInFeet(start,end){
   distance=start-end*264;
   return distance;
 }
+console.log(distanceTravelledInFeet());
