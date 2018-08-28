@@ -25,7 +25,7 @@ console.log(distanceFromHqInFeet(50));
 console.log(distanceFromHqInFeet(34));
 
 function distanceTravelledInFeet(start,end){
-  distance=start-end*264;
+  distance=(end -start)*264;
   return distance;
 }
-console.log(distanceTravelledInFeet());
+console.log(distanceTravelledInFeet(43, 48));
