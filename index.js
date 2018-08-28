@@ -43,7 +43,7 @@ function calculatesFarePrice(start,end){
   let fare
  let dis=distanceTravelledInFeet(start, end);
  if(dis<400)
-  fare="free";
+  fare=0;
   else if(dis>400 &&dis <2000){
     fare=2.56;
     
